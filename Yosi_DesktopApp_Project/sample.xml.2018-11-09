@@ -1,0 +1,12 @@
+[INFO] 2018-11-09 18:24:44,394 com.yosi.util.Log info - Landing Page
+[INFO] 2018-11-09 18:24:44,396 com.yosi.util.Log info - Appoinment Time 
+Appointment Confirmed
+11/09/2018 @ 8:00 AM
+90 Broad St - 1002, New York, NY 10004
+
+View map
+[INFO] 2018-11-09 18:24:53,365 com.yosi.util.Log info - Doctor is selected
+[INFO] 2018-11-09 18:24:55,442 com.yosi.util.Log info - Adult is clicked
+[INFO] 2018-11-09 18:24:55,442 com.yosi.util.Log info - Patient verification Page
+[INFO] 2018-11-09 18:24:55,446 com.yosi.util.Log info - DOG entered: 02/02/1992
+[INFO] 2018-11-09 18:24:55,446 com.yosi.util.Log info - Gender entered:Female
